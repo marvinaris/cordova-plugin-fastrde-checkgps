@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-fastrde-checkgps",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-fastrde-checkgps",
+    "platforms": [
+      "ios","android"
+    ]
+  },
+  "description": "Cordova plugin for gps",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marvinaris/cordova-plugin-fastrde-checkgps.git"
+  }
+
+}
